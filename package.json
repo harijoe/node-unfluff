@@ -1,5 +1,5 @@
 {
-  "name": "unfluff",
+  "name": "unfluff-without-node",
   "version": "1.1.0",
   "description": "A web page content extractor",
   "homepage": "https://github.com/ageitgey/node-unfluff",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ageitgey/node-unfluff"
+    "url": "https://github.com/harijoe/node-unfluff"
   },
   "bugs": "https://github.com/ageitgey/node-unfluff/issues",
   "engines": {
